@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\projects\OOP2_Project\OOP2_project\Code\MenuRegistration.h(82): warning C4715: 'Password': not all control paths return a value
+  OOP2_project.vcxproj -> D:\projects\OOP2_Project\Debug\OOP2_project.exe
